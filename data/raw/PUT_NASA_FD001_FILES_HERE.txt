@@ -1,0 +1,9 @@
+NASA C-MAPSS FD001 Dataset
+
+Download the NASA C-MAPSS FD001 dataset and place these files in this folder:
+
+train_FD001.txt
+test_FD001.txt
+RUL_FD001.txt
+
+The dataset files are intentionally not included in this GitHub repository because they are large.
