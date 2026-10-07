@@ -1,31 +1,21 @@
-# Virtual Environment
 venv/
 .env/
-
-# Python
 __pycache__/
 *.py[cod]
 *.pyo
-
-# Jupyter
 .ipynb_checkpoints/
 
-# Logs
 logs/
 *.log
 
+data/raw/*.txt
+!data/raw/PUT_NASA_FD001_FILES_HERE.txt
 
-# Generated model artifacts
 artifacts/*.pkl
 artifacts/*.csv
 
-# IDE
 .vscode/
 .idea/
-
-# OS
 .DS_Store
 Thumbs.db
-
-# Streamlit
 .streamlit/secrets.toml
