@@ -14,8 +14,6 @@ __pycache__/
 logs/
 *.log
 
-# NASA Dataset
-data/raw/*.txt
 
 # Generated model artifacts
 artifacts/*.pkl
