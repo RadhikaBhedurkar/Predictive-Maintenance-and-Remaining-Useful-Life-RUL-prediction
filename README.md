@@ -470,7 +470,7 @@ Data Analyst & Data Science Enthusiast
 
 Connect with me
 LinkedIn: https://www.linkedin.com/in/radhika-bhedurkar
+
 GitHub: https://github.com/RadhikaBhedurkar
 
-d
-If GitHub's description box is limited, use:
+
